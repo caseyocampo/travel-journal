@@ -8,7 +8,9 @@ This project is currently being built out. If you'd like to see my progress note
 
 ## This project was created with Create React App
 
-Create React App is an easy way to get set up with a React project in minutes. Learn more about [Create React App](https://github.com/facebook/create-react-app) below.
+Create React App is an easy way to get set up with a React project in minutes.
+
+Learn more about [Create React App](https://github.com/facebook/create-react-app) below.
 
 ## Available Scripts
 
