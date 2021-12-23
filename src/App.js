@@ -1,12 +1,14 @@
-import './App.css'
-
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Location from './components/Location'
+
+import './App.css'
 
 function App() {
   return (
-    <div className='App'>
+    <div>
       <Header />
+      <Location />
       <Footer />
     </div>
   )
