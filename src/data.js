@@ -7,7 +7,7 @@ let data = [
     startDate: '13 Oct, 2021',
     endDate: '19 Oct, 2021',
     description:
-      'Took my boyfriend and mom ona  vacation to Las Vegas where we visited as many hotels on the strip as possible. We also went to Area 15 (not Area 51), which was a cool immersive arcade/art complex.',
+      'Took my boyfriend and mom on a vacation to Las Vegas where we visited as many hotels on the strip as possible. We also went to Area 15 (not Area 51), which was a cool immersive arcade/art complex.',
     imageUrl: 'vegas.jpeg',
   },
   {
