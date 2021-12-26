@@ -18,7 +18,7 @@ function Card(props) {
         <a
           href={props.googleMapsUrl}
           target='_blank'
-          rel='noopener'
+          rel='noreferrer'
           className='card--google'
         >
           View on Google Maps
