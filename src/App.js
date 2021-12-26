@@ -1,15 +1,20 @@
 import Header from './components/Header'
-import Footer from './components/Footer'
-import Location from './components/Location'
+// import Footer from './components/Footer'
+import Card from './components/Card'
 
 import './App.css'
+import data from './data'
 
 function App() {
+  const cards = data.map((card) => {
+    return <Card key={card.id} {...card} />
+  })
+
   return (
     <div>
       <Header />
-      <Location />
-      <Footer />
+      <section>{cards}</section>
+      {/* <Footer /> */}
     </div>
   )
 }

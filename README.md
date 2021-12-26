@@ -1,4 +1,4 @@
-# Welcome to my Travel Journal!
+# Welcome to My Travel Journal!
 
 My Travel Journal is a place where I can log all the noteworthy places I've visited and want to reflect on.
 
