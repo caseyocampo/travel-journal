@@ -12,7 +12,7 @@ function Card(props) {
       </div>
       <div className='card--info'>
         <p className='card--location'>
-          <img src={icon} className='location--icon' />
+          <img src={icon} className='location--icon' alt='location pin icon' />
           {props.location}
         </p>
         <a href={props.googleMapsUrl} className='card--google'>

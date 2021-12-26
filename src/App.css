@@ -51,14 +51,14 @@ section {
 
 .location--icon {
   margin-right: 5px;
-  height: 14px;
+  height: 12px;
 }
 
 .card--location {
   display: inline-block;
   font-size: 14px;
   letter-spacing: 2px;
-  margin-right: 10px;
+  margin-right: 15px;
   text-transform: uppercase;
 }
 

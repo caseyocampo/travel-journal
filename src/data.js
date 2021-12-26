@@ -1,4 +1,4 @@
-export default [
+let data = [
   {
     id: 1,
     title: '2021 Las Vegas Trip',
@@ -33,3 +33,5 @@ export default [
     imageUrl: 'new-york.jpeg',
   },
 ]
+
+export default data
