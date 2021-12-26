@@ -24,12 +24,6 @@ Learn more about [Create React App](https://github.com/facebook/create-react-app
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Learn More
+## This project was deploy and is hosted on Netlify
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Netlify is a fantastic resource to deploy web projects. Check out more about Netlify [here](https://www.netlify.com/).
