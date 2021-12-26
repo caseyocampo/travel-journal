@@ -85,4 +85,8 @@ section {
   .cards {
     flex-direction: column;
   }
+  .card--google {
+    display: block;
+    margin: 4px 0 15px 0;
+  }
 }
